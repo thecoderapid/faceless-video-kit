@@ -1,0 +1,9 @@
+config.json
+out/
+fonts/*.ttf
+audio/*
+!audio/README.md
+__pycache__/
+*.pyc
+_captions.ass
+media/

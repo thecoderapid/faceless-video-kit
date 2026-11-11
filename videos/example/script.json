@@ -1,0 +1,16 @@
+{
+  "format": "vertical",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+4%",
+  "lead_in": 0.1,
+  "tail": 1.2,
+  "gaps": [0.35, 0.4, 0.45, 0.45, 0.5, 0.0],
+  "lines": [
+    "Why is the sky blue?",
+    "Sunlight looks white, but it's every colour mixed together.",
+    "When it hits the air, blue light bounces around far more than red.",
+    "So blue reaches your eyes from every direction in the sky.",
+    "At sunset, the light crosses much more air. The blue scatters away, and the reds are left.",
+    "Which simple question should we answer next?"
+  ]
+}

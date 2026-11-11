@@ -1,0 +1,12 @@
+{
+  "youtube": {
+    "client_id": "",
+    "client_secret": "",
+    "refresh_token": ""
+  },
+  "tiktok": {
+    "client_key": "",
+    "client_secret": "",
+    "refresh_token": ""
+  }
+}

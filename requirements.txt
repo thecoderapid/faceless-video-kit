@@ -1,0 +1,6 @@
+manim>=0.18
+edge-tts>=7.0
+imageio-ffmpeg>=0.5
+numpy
+pillow
+requests
